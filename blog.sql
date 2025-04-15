@@ -37,7 +37,7 @@ CREATE TABLE comments(
 
 
 -- Insert sample data into users
-INSERT INTO users(email,password) VALUES ('panda@gmail.com', 'panda');
+INSERT INTO users(email,password) VALUES ('mahbub.sharing11@gmail.com', 'ItsMahbub@21');
 
 -- Insert sample data into posts
 INSERT INTO posts(title, content, user_id) VALUES ('First Post', 'This is the content of the first post.', 1);
